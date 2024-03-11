@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.main-btn button {
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 0;
+  font-size: 150%;
+  font-weight: bold;
+  width: 10%;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.main-btn button:hover {
+  opacity: 80%;
+}
